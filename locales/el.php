@@ -31,7 +31,7 @@ $_BL['el']['copyright_extra'] = false;
 $_BL['el']['MyBlitzortung_original'] = 'MyBlitzortung';
 $_BL['el']['copyright_footer'] = 'Powered by {MYBO_ORIG}';
 $_BL['el']['Blitzortung.org'] = 'Blitzortung.org';
-$_BL['el']['Lightning data from Blitzortung.org'] = 'Δεδομένα κεραυνού από το Blitzortung.org';
+$_BL['el']['Lightning data from Blitzortung.org'] = 'Lightning data from Blitzortung.org';
 
 
 
